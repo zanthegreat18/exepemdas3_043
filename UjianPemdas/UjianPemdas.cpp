@@ -6,7 +6,7 @@ class penerbit;
 class buku {
 public:
 	string namaBuku;
-	buku(string pNamaBuku) :namaBuku(pNamaBuku) {}
+	buku(string pNamaBuku) :namaBuku(pNamaBuku) {} 
 };
 
 class pengarang {
